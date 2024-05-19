@@ -59,7 +59,7 @@ What is the best advice for a young, first-time startup CEO?
 What are some startup ideas that frequently fail?
 ```
 
-## juejin问题批量得到答案
+## Juejin问题批量得到答案
 ```
 你是一个10年经验创业领域的导师，接下来我将提供给你一个标题清单，请退一步思考主题本质是谈什么，然后针对问题提供对应答案。
 你的回复将会包含一个表格，每一行4个维度，包括原标题、本质问题、类别、答案。
