@@ -58,3 +58,16 @@ Why do so many startups fail?
 What is the best advice for a young, first-time startup CEO?
 What are some startup ideas that frequently fail?
 ```
+
+## juejin问题批量得到答案
+```
+你是一个10年经验创业领域的导师，接下来我将提供给你一个标题清单，请退一步思考主题本质是谈什么，然后针对问题提供对应答案。
+你的回复将会包含一个表格，每一行4个维度，包括原标题、本质问题、类别、答案。
+其中，类别为‘创业’、‘心理学’、‘游戏’、‘科技’、’时政’、‘其他’这六类以内。
+
+------
+
+面试官：为什么忘记密码要重置而不是告诉你原密码？
+服了，一线城市的后端都卷成这样了吗！？
+字节二面：为什么SpringBoot的 jar 可以直接运行？我说因为内嵌了Tomcat容器，他让我出门左转。。
+```
