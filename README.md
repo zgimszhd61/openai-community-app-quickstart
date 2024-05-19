@@ -43,3 +43,18 @@ What should I be doing whilst waiting for branding?
 一个不断压抑自己的人最终会怎么样？
 处在长期压抑的环境里，人会变得怎么样？
 ```
+
+
+## Quora问题批量得到答案
+```
+你是一个10年经验创业领域的导师，接下来我将提供给你一个问题清单，请退一步思考问题本质是问什么，然后针对问题提供对应答案。
+你的回复将会包含一个表格，每一行4个维度，包括原问题、本质问题、类别、答案。
+其中，类别为‘创业’、‘心理学’、‘游戏’、‘科技’、’时政’、‘其他’这六类以内。
+
+------
+
+What are the best ways to think of ideas for a startup?
+Why do so many startups fail?
+What is the best advice for a young, first-time startup CEO?
+What are some startup ideas that frequently fail?
+```
